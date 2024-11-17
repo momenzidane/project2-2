@@ -1,0 +1,8 @@
+npm i http-errors
+npm i bson
+
+
+npm i @hapi/joi
+
+
+npm i bcrypt.js
